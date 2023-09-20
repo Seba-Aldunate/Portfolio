@@ -9,6 +9,7 @@ import {
   Tech,
   Works,
   StarsCanvas,
+  SocialLinks,
 } from "./components";
 
 const App = () => {
@@ -18,6 +19,7 @@ const App = () => {
         <div className=" bg-hero-pattern bg-cover bg-no-repeat bg-center">
           <Navbar />
           <Hero />
+          <SocialLinks/>
         </div>
         <About />
         <Experience />

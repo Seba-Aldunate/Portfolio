@@ -163,7 +163,7 @@ const projects = [
   {
     name: "Car Hub",
     description:
-      "Plataforma web de alquiler de autos. Permite al usuario buscar coches de alquier, ver ficha técnica, filtrar y ordenar resultados según las necesidades del usuario.",
+      "Plataforma web de alquiler de autos. Permite la búsqueda de coches de alquier, ver ficha técnica, filtrar y ordenar resultados según necesidades del usuario.",
     tags: [
       {
         name: "Nextjs",
@@ -209,7 +209,7 @@ const projects = [
   {
     name: "Git-Hub",
     description:
-      "Repositorios de mi Portfolio 3D, web alquiler de autos y Web de búsqueda de trabajo.",
+      "Repositorios de mi Portfolio 3D, web alquiler de autos y Web de búsqueda de trabajo.                        ",
     tags: [
       {
         name: "tailwind",

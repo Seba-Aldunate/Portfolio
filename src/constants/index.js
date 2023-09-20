@@ -105,7 +105,6 @@ const technologies = [
     name: "git-hub",
     icon: github,
   },
-
 ];
 
 const experiences = [
@@ -149,13 +148,13 @@ const experiences = [
     icon: SOC,
     iconBg: "#383E56",
     date: "Jun 2023 - Jul 2023",
-    points: ["General purpose.",
-        "Lógica de programacion con Python",
-        "POO (Programación orientada a objetos en Python.)",
-        "Tkinter",
-        "Web scraping",
-        
-  ],
+    points: [
+      "General purpose.",
+      "Lógica de programacion con Python",
+      "POO (Programación orientada a objetos en Python.)",
+      "Tkinter",
+      "Web scraping",
+    ],
   },
 ];
 
@@ -180,6 +179,7 @@ const projects = [
     ],
     image: carhub,
     source_code_link: "https://github.com/Seba-Aldunate/car_showcase",
+    source_code_link_portfolio: "https://sebastian-aldunate.es/",
   },
   {
     name: "Job finder",
@@ -205,6 +205,7 @@ const projects = [
     ],
     image: jobfinder,
     source_code_link: "https://github.com/Seba-Aldunate/jobfinder",
+    source_code_link_portfolio: "https://sebastian-aldunate.es",
   },
   {
     name: "Git-Hub",
@@ -230,6 +231,7 @@ const projects = [
     ],
     image: github,
     source_code_link: "https://github.com/Seba-Aldunate",
+    source_code_link_portfolio: "https://sebastian-aldunate.es",
   },
 ];
 

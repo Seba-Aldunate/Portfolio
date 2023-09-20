@@ -34,7 +34,7 @@ import carhub from "./carhub.png";
 import jobfinder from "./jobfinder.png";
 import tripguide from "./tripguide.png";
 import jobit from "./jobit.png"
-
+import www from "./www.png"
 
 export {
   IBM,
@@ -68,5 +68,6 @@ export {
   tripguide,
   masterD,
   SOC,
-  jobit
+  jobit,
+  www
 };

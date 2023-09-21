@@ -179,7 +179,7 @@ const projects = [
     ],
     image: carhub,
     source_code_link: "https://github.com/Seba-Aldunate/car_showcase",
-    source_code_link_portfolio: "https://sebastian-aldunate.es/",
+    source_code_link_portfolio: "https://car-showcase-qzjq.vercel.app/",
   },
   {
     name: "Job finder",
@@ -205,7 +205,7 @@ const projects = [
     ],
     image: jobfinder,
     source_code_link: "https://github.com/Seba-Aldunate/jobfinder",
-    source_code_link_portfolio: "https://sebastian-aldunate.es",
+    source_code_link_portfolio: "https://job-finder-demo.netlify.app/",
   },
   {
     name: "Git-Hub",
@@ -231,7 +231,7 @@ const projects = [
     ],
     image: github,
     source_code_link: "https://github.com/Seba-Aldunate",
-    source_code_link_portfolio: "https://sebastian-aldunate.es",
+    source_code_link_portfolio: "https://github.com/Seba-Aldunate",
   },
 ];
 

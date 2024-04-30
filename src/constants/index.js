@@ -28,6 +28,7 @@ import {
   IBM,
   SOC,
   jobfinder,
+  FCM,
 } from "../assets";
 
 export const navLinks = [
@@ -36,8 +37,12 @@ export const navLinks = [
     title: "Sobre mi",
   },
   {
-    id: "work",
+    id: "Experience",
     title: "Experiencia",
+  },
+  {
+    id: "Works",
+    title: "Projectos",
   },
   {
     id: "contact",
@@ -109,37 +114,32 @@ const technologies = [
 
 const experiences = [
   {
-    title: "FP Grado superior DAW.",
-    company_name: "(Desarrollo de Aplicaciones Web), en Academia MasterD.",
-    icon: masterD,
+    title: "FCM Lab Barcelona.",
+    company_name: "FCM Travel Group.",
+    icon: FCM,
     iconBg: "#383E56",
-    date: "Enero 2021 - March 2023",
+    date: "February 2024 - Actualidad",
     points: [
-      "HTML.",
-      "CSS",
-      "Bootstrap",
-      "Jquery",
-      "JavaScript.",
-      "MySQL/SQL.",
-      "PHP.",
-      "APACHE.",
+      "TypeScript.",
+      "Jest."
     ],
   },
   {
-    title: "Python, Full Stack web development.",
-    company_name: "IBM Skillsbuild.",
+    title: "IBM Skillsbuild.",
+    company_name: "Python, Full Stack web development.",
     icon: IBM,
     iconBg: "#E6DEDD",
     date: "jun 2023 - jul 2023",
     points: [
-      "Fundamentos de internet.",
-      "Fundamentos de programación.",
-      "Fundamentos de desarrollo web (html, CSS, JavaScript).",
-      "Fundamentos GIT y GITHUB.",
-      "Conceptos básicos de python.",
-      "Programando en Python. Algoritmos. Django",
-      "Testing con Python.",
-      "POO (Programación orientada a objetos en Python.)",
+      "Django."
+      // "Fundamentos de internet.",
+      // "Fundamentos de programación.",
+      // "Fundamentos de desarrollo web (html, CSS, JavaScript).",
+      // "Fundamentos GIT y GITHUB.",
+      // "Conceptos básicos de python.",
+      // "Programando en Python. Algoritmos. Django",
+      // "Testing con Python.",
+      // "POO (Programación orientada a objetos en Python.)",
     ],
   },
   {
@@ -149,11 +149,28 @@ const experiences = [
     iconBg: "#383E56",
     date: "Jun 2023 - Jul 2023",
     points: [
-      "General purpose.",
-      "Lógica de programacion con Python",
-      "POO (Programación orientada a objetos en Python.)",
-      "Tkinter",
-      "Web scraping",
+      // "General purpose.",
+      // "Lógica de programacion con Python",
+      // "POO (Programación orientada a objetos en Python.)",
+      // "Tkinter",
+      // "Web scraping",
+    ],
+  },
+  {
+    title: "FP Grado superior DAW.",
+    company_name: "(Desarrollo de Aplicaciones Web), en Academia MasterD.",
+    icon: masterD,
+    iconBg: "#383E56",
+    date: "Enero 2021 - March 2023",
+    points: [
+      // "HTML.",
+      // "CSS",
+      // "Bootstrap",
+      // "Jquery",
+      // "JavaScript.",
+      // "MySQL/SQL.",
+      // "PHP.",
+      // "APACHE.",
     ],
   },
 ];

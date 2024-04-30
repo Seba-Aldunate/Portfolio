@@ -29,7 +29,7 @@ import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 import masterD from "./company/masterD.png";
-
+import FCM from "./company/FCM.png"
 import carhub from "./carhub.png";
 import jobfinder from "./jobfinder.png";
 import tripguide from "./tripguide.png";
@@ -37,6 +37,7 @@ import jobit from "./jobit.png"
 import www from "./www.png"
 
 export {
+  FCM,
   IBM,
   logo,
   backend,

@@ -6,7 +6,6 @@ import {
   Experience,
   Hero,
   Navbar,
-  Tech,
   Works,
   StarsCanvas,
   SocialLinks,
@@ -23,7 +22,6 @@ const App = () => {
         </div>
         <About />
         <Experience />
-        <Tech />
         <Works />
       </div>
       <div className="relative ">

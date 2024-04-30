@@ -1,4 +1,3 @@
-import React from "react";
 import { motion } from "framer-motion";
 import { Tilt } from "react-tilt";
 
@@ -80,8 +79,8 @@ const Works = () => {
   return (
     <>
       <motion.div variants={textVariant()}>
-        <p className={`${styles.sectionSubText} `}>Mis trabajos</p>
-        <h2 className={`${styles.sectionHeadText}`}>Projectos.</h2>
+        <p className={styles.sectionSubText} >Mis trabajos</p>
+        <h3 className={styles.sectionHeadText}>Projectos.</h3>
       </motion.div>
 
       <div className="w-full flex">
@@ -106,4 +105,4 @@ const Works = () => {
   );
 };
 
-export default SectionWrapper(Works, "");
+export default SectionWrapper(Works, "Works");

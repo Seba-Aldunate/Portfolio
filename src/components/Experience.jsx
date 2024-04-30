@@ -66,7 +66,6 @@ const Experience = () => {
         </VerticalTimeline>
       </div>
 
-      <p className={`${styles.sectionSubText} mt-20 `}>Otras tecnologías con las que he trabajado</p>
     </>
   );
 };

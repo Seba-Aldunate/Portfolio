@@ -121,6 +121,7 @@ const experiences = [
     date: "February 2024 - Actualidad",
     points: [
       "JavaScript.",
+      "React",
       "TypeScript.",
       "Jest."
     ],
@@ -167,7 +168,10 @@ const experiences = [
     date: "Enero 2021 - March 2023",
     points: [
       "Programación Web",
-      "Desarrollo Full-Stack."
+      "Desarrollo Full-Stack.",
+      "Frontend.",
+      "Backend.",
+      "Servidores."
       // "CSS",
       // "Bootstrap",
       // "Jquery",

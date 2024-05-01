@@ -51,22 +51,22 @@ export const navLinks = [
 ];
 
 const services = [
-  {
-    title: "Frontend Developer",
-    icon: web,
-  },
-  {
-    title: "Backend Developer",
-    icon: backend,
-  },
-  {
-    title: "Lorem ipsum",
-    icon: mobile,
-  },
-  {
-    title: "Lorem ipsum",
-    icon: creator,
-  },
+  // {
+  //   title: "Frontend Developer",
+  //   icon: web,
+  // },
+  // {
+  //   title: "Backend Developer",
+  //   icon: backend,
+  // },
+  // {
+  //   title: "Lorem ipsum",
+  //   icon: mobile,
+  // },
+  // {
+  //   title: "Lorem ipsum",
+  //   icon: creator,
+  // },
 ];
 
 const technologies = [
@@ -114,12 +114,13 @@ const technologies = [
 
 const experiences = [
   {
-    title: "FCM Lab Barcelona.",
-    company_name: "FCM Travel Group.",
+    title: "Software Developer.",
+    company_name: "FCM Lab Barcelona.",
     icon: FCM,
     iconBg: "#383E56",
     date: "February 2024 - Actualidad",
     points: [
+      "JavaScript.",
       "TypeScript.",
       "Jest."
     ],
@@ -131,6 +132,7 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "jun 2023 - jul 2023",
     points: [
+      "Python.",
       "Django."
       // "Fundamentos de internet.",
       // "Fundamentos de programación.",
@@ -149,11 +151,12 @@ const experiences = [
     iconBg: "#383E56",
     date: "Jun 2023 - Jul 2023",
     points: [
+      'Python',
       // "General purpose.",
       // "Lógica de programacion con Python",
       // "POO (Programación orientada a objetos en Python.)",
-      // "Tkinter",
-      // "Web scraping",
+      "Tkinter",
+      "Web scraping",
     ],
   },
   {
@@ -163,7 +166,8 @@ const experiences = [
     iconBg: "#383E56",
     date: "Enero 2021 - March 2023",
     points: [
-      // "HTML.",
+      "Programación Web",
+      "Desarrollo Full-Stack."
       // "CSS",
       // "Bootstrap",
       // "Jquery",

@@ -121,7 +121,7 @@ const experiences = [
     date: "February 2024 - Actualidad",
     points: [
       "JavaScript.",
-      "React",
+      "React.",
       "TypeScript.",
       "Jest."
     ],
@@ -152,12 +152,12 @@ const experiences = [
     iconBg: "#383E56",
     date: "Jun 2023 - Jul 2023",
     points: [
-      'Python',
+      'Python.',
       // "General purpose.",
       // "Lógica de programacion con Python",
       // "POO (Programación orientada a objetos en Python.)",
-      "Tkinter",
-      "Web scraping",
+      "Tkinter.",
+      "Web scraping.",
     ],
   },
   {
@@ -167,7 +167,7 @@ const experiences = [
     iconBg: "#383E56",
     date: "Enero 2021 - March 2023",
     points: [
-      "Programación Web",
+      "Programación Web.",
       "Desarrollo Full-Stack.",
       "Frontend.",
       "Backend.",
